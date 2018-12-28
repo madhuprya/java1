@@ -42,7 +42,7 @@ public class PrintExceptionTest {
     @Test
     public void nullPointer(){
         String expected = "class java.lang.NullPointerException";
-        assertEquals(expected,pe.nullPointer(););
+        assertEquals(expected,pe.nullPointer());
 
 
     }}
