@@ -3,11 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="96b138c5-25f9-44ce-b4a0-86c9937cf75c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/Addition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/LMSException6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/LMSException6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/PrintException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/javape3/PrintException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/javape3/LMSException6Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/javape3/LMSException6Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/javape3/PrintExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/javape3/PrintExceptionTest.class" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,57 +20,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/MyChessBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/StudentMarks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/PrintException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="105">
               <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="e#132#133#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Dateofaweek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/AdditionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/DateofaweekTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1034">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="165">
+              <caret line="11" column="113" lean-forward="true" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +145,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/PrintExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Dateofaweek.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/javape3/DateofaweekTest.java" />
       </list>
     </option>
   </component>
@@ -159,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,12 +226,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545972473187" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545976923589" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
@@ -252,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Add">
+  <component name="RunManager" selected="JUnit.DateofaweekTest.caltest">
     <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.Add" />
       <module name="Pe3javatestcase" />
@@ -266,8 +269,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.PrintException" />
+    <configuration name="DateofaweekTest.caltest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe3javatestcase" />
       <extension name="coverage">
         <pattern>
@@ -275,12 +277,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.javape3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.DateofaweekTest" />
+      <option name="METHOD_NAME" value="caltest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.printException" />
+    <configuration name="DateofaweekTest.caltest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pe3javatestcase" />
       <extension name="coverage">
         <pattern>
@@ -288,6 +293,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.javape3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.javape3.DateofaweekTest" />
+      <option name="METHOD_NAME" value="caltest1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -326,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DateofaweekTest.caltest" />
+        <item itemvalue="JUnit.DateofaweekTest.caltest1" />
         <item itemvalue="Application.Add" />
         <item itemvalue="JUnit.PrintExceptionTest.printExcep1" />
         <item itemvalue="JUnit.PrintExceptionTest.printExcep" />
-        <item itemvalue="Application.PrintException" />
-        <item itemvalue="Application.printException" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +348,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a34fa5e-74ff-4e56-bbba-9769ff0ab4a3" name="Default Changelist" comment="" />
+      <changelist id="96b138c5-25f9-44ce-b4a0-86c9937cf75c" name="Default Changelist" comment="" />
       <created>1545904886206</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -348,12 +357,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrintExceptionTest_printExcep - 2018.12.27 at 18h 38m 11s.xml">
-      <configuration name="PrintExceptionTest.printExcep" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrintExceptionTest_printExcep - 2018.12.27 at 18h 45m 44s.xml">
-      <configuration name="PrintExceptionTest.printExcep" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrintExceptionTest_printExcep - 2018.12.27 at 18h 58m 23s.xml">
       <configuration name="PrintExceptionTest.printExcep" configurationId="JUnit" />
     </history-entry>
@@ -369,12 +372,27 @@
     <history-entry file="PrintExceptionTest_printExcep1 - 2018.12.27 at 19h 10m 45s.xml">
       <configuration name="PrintExceptionTest.printExcep1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DateofaweekTest_caltest - 2018.12.28 at 11h 24m 12s.xml">
+      <configuration name="DateofaweekTest.caltest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest_caltest - 2018.12.28 at 11h 26m 14s.xml">
+      <configuration name="DateofaweekTest.caltest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest_caltest - 2018.12.28 at 11h 27m 39s.xml">
+      <configuration name="DateofaweekTest.caltest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest_caltest1 - 2018.12.28 at 11h 27m 46s.xml">
+      <configuration name="DateofaweekTest.caltest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateofaweekTest_caltest - 2018.12.28 at 11h 29m 18s.xml">
+      <configuration name="DateofaweekTest.caltest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -383,7 +401,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,6 +449,28 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/printExceptionTest.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/MyChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/MyChessBoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -438,31 +478,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/printExceptionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/StudentMarks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/PrintException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -473,6 +504,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/LMSException6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -480,31 +518,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/PrintException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
+          <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/WeekDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/LMSException6Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1034">
+        <state relative-caret-position="15">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/AdditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/javape3/Dateofaweek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/javape3/DateofaweekTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="113" lean-forward="true" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
